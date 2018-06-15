@@ -1,0 +1,21 @@
+{
+  "name": "babel-project",
+  "version": "1.0.0",
+  "description": "This is a sample Babel project.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "javascript"
+  ],
+  "author": "Yusuf Shakeel",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "grunt": "^1.0.3",
+    "grunt-babel": "^7.0.0"
+  }
+}
